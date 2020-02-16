@@ -1,5 +1,4 @@
 pip
-falembic
 Babel==2.7.0
 blinker==1.4
 certifi==2019.11.28
